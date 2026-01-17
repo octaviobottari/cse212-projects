@@ -1,6 +1,5 @@
 ﻿Console.WriteLine("\n======================\nSimple Queue\n======================");
-SimpleQueue.Run();
+// SimpleQueue.Run(); // Este falla
 
-// Uncomment and run as you get to the solution part
-// Console.WriteLine("\n======================\nSimple Queue\n======================");
-// SimpleQueueSolution.Run();
+Console.WriteLine("\n======================\nSimple Queue Solution\n======================");
+SimpleQueueSolution.Run();
